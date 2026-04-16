@@ -1,0 +1,11 @@
+Tarea: "Armado de Home-maquetado"
+
+Mi pagina web va a ser un E-commerce de temática genérica. Inicialmente estático, pero posteriormente con dinamismo agregado con Js.
+
+Diferencia entre Git y GitHub:
+
+Git es un software que se instala en una pc. Nos brinda el servicio de poder trazar proyectos y, lo mas importante, poder rastrearlos; manteniendo así un seguimiento de los mismos. Nos permite ver cada cambio que se realizo en determinado proyecto, aparte de que es conveniente si se está desarrollando un proyecto de manera grupal o en equipo.
+GitHub es una plataforma virtual en la nube que almacena nuestros repositorio con nuestros proyectos. Permite trabajar con hasta 3 colaboradores de manera gratuita. Su principal función es permitirnos publicar de manera gratuita nuestros sitios web.
+
+Link de "GitHub Pages":
+https://mateomartin0.github.io/Repositorio-para-TPs/
